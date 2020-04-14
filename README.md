@@ -1,2 +1,4 @@
-# Test
-##### Test2
+# Ecoin Trends
+http://github.com - automatic!
+
+
