@@ -18,8 +18,9 @@ first method I will use is the old-fashioned linear regression.  I will be
 using not only linear, but polynomial regression.  The second method I will
 use is a deep learning method with neural networks.
 
-https://github.com/jim-cassidy/ecoins-trends/blob/master/screenshots/lite.png
+## Deep Learning: Litecoin vs. Bitcoin
 
+### Litecoin
 
 ![picture](screenshots/lite.png)
 
