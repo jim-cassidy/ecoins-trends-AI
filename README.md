@@ -21,7 +21,7 @@ use is a deep learning method with neural networks.
 https://github.com/jim-cassidy/ecoins-trends/blob/master/screenshots/lite.png
 
 
-![picture](screenshots/lite.png)
+![picture](ecoin-trends/screenshots/lite.png)
 
 
 
