@@ -26,7 +26,7 @@ use is a deep learning method with neural networks.
 
 ### Bitcoin Prices over time
 
-![picture](screenshot/bit1.png)
+![picture](screenshots/bit1.png)
 
 
 
