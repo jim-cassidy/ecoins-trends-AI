@@ -18,6 +18,12 @@ first method I will use is the old-fashioned linear regression.  I will be
 using not only linear, but polynomial regression.  The second method I will
 use is a deep learning method with neural networks.
 
+## Prediction before I analyze the data with statistics
+
+   I have been looking at both bitoin and litecoin.  From what I see in
+the trendline is bitcoin is going up faster than litecoin as a percentage.
+
+
 ## Deep Learning: Litecoin vs. Bitcoin
 
 ### Litecoin Values over time
