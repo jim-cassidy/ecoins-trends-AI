@@ -20,9 +20,16 @@ use is a deep learning method with neural networks.
 
 ## Deep Learning: Litecoin vs. Bitcoin
 
-### Litecoin
+### Litecoin Values over time
 
 ![picture](screenshots/lite.png)
+
+### Bitcoin Prices over time
+
+![picture](screenshot/bit1.png)
+
+
+
 
 
 
