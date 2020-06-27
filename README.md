@@ -42,6 +42,12 @@ the trendline is bitcoin is going up faster than litecoin as a percentage.
 
 ![picture](screenshots/bit-predict.png)
 
+### Prediction : Percent increase
+
+    For Deep Learning, I compared the prediction percent increase.
+Litecoin is predicting close to a 400% increase.  Bitcoin
+is predicting about a 70% increase
+
 
 
 
