@@ -49,6 +49,13 @@ Litecoin is predicting close to a 400% increase.  Bitcoin
 is predicting about a 70% increase
 
 
+## Classical Regression
+
+![picture](screenshots/bit-linear.png)
+
+![picture](screenshots/lite-linear.png)
+
+
 
 
 
