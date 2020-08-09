@@ -12,3 +12,7 @@ https://github.com/curiousily/Getting-Things-Done-with-Pytorch
 ## Time series tutorial
 
 https://www.tensorflow.org/tutorials/structured_data/time_series
+
+## Time series and Keras tutorial
+
+https://towardsdatascience.com/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python-6ceee9c6c651
