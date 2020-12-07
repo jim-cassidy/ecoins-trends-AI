@@ -32,7 +32,7 @@ the trendline is bitcoin is going up faster than litecoin as a percentage.
 
 ### Bitcoin Values over time : Deep learning
 
-![picture](screenshots/bitcoin-predict.png)
+![picture](screenshots/bit-predict.png)
 
 ### Litecoin Values over time
 
