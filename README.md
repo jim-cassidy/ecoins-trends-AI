@@ -12,7 +12,7 @@ bitcoin include Litecoin, Ethereum, Zcash, and Dash.  I have been recenlty
 been watching the trends of coins.  So far I have done the best with Etherum
 
 ## Methods
-**
+-
     There are many statistical methods to use for choosing coins.  Lately,
 there has been a surge in cryptocurrency coins.  Different regressions, of
 course, could help decide which coin to buy
