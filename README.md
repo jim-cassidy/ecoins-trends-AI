@@ -1,7 +1,6 @@
 # Ecoin Trends
  
 ## Introduction
-**
     Ever since the inception of bitcoins, electronic coins have become
 very popular to invest money in.  If invested early, bitcoin value grew
 exponentially for a long time.  Since then, there have been competors.
