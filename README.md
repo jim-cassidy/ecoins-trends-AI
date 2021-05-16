@@ -8,37 +8,22 @@ exponentially for a long time.  Since then, there have been competors.
 Just as in the e-commerce field, ebay was the only game in town for a
 while.  Amazon replaced ebay, and there were very many other competitors
 that people can sell a decent amount of inventory.  The competetors to
-bitcoin include Litecoin, Ethereum, Zcash, and Dash.  I want to diversify
-my invesment to make sure my money is invested optimally.
+bitcoin include Litecoin, Ethereum, Zcash, and Dash.  I have been recenlty
+been watching the trends of coins.  So far I have done the best with Etherum
 
 ## Methods
 
-    I will be using two methods to predict the trends of bitcoins.  The 
-first method I will use is the old-fashioned linear regression.  I will be
-using not only linear, but polynomial regression.  The second method I will
-use is a deep learning method with neural networks.
+    There are many statistical methods to use for choosing coins.  Lately,
+there has been a surge in cryptocurrency coins.  Different regressions, of
+course, could help decide which coin to buy
 
-## Prediction before I analyze the data with statistics
-
-   I have been looking at both bitoin and litecoin.  From what I see in
-the trendline is bitcoin is going up faster than litecoin as a percentage.
+    To start with, I decided to download the coin price history from yahoo.
+I then used numpy to compare the percent change
 
 
-## Deep Learning: Litecoin vs. Bitcoin
 
-### Litcoin Values over time : Deep learning
 
-![picture](screenshots/lite-predict.png)
-
-### Bitcoin Values over time : Deep learning
-
-![picture](screenshots/bit-predict.png)
-
-### Litecoin Values over time
-
-!### Litecoin Values over time
-
-### Bitcoin Prices over time 
+### Current Screenshot
 
 ![picture](screenshots/bit1.png)
 
