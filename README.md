@@ -25,50 +25,7 @@ I then used numpy to compare the percent change
 
 ### Current Screenshot
 
-![picture](screenshots/bit1.png)
-
-### Litecoin Prediction
- 
-![picture](screenshots/lite-predict.png)
- 
-### Bitcoin Prediction
-
-![picture](screenshots/bit-predict.png)
-
-### Prediction : Percent increase
-
-    For Deep Learning, I compared the prediction percent increase.
-Litecoin is predicting close to a 400% increase.  Bitcoin
-is predicting about a 70% increase
-
-
-## Classical Regression
-
-![picture](screenshots/bit-linear.png)
-
-![picture](screenshots/lite-linear.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![picture](screenshots/april2021comparison.jpg)
 
 
 
