@@ -19,7 +19,7 @@ I decided to use Tensorflow to analyize past trends.  I chose to put
 previous values at previous time points, to consider if it is a safe bet
 that it will go up within a certain time period.
 
-[[images/prediction-text.png]]
+[[screenshots/prediction-text.png]]
 
 ## Method #2: Traditional Regression
 -
