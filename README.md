@@ -17,8 +17,10 @@ I also wanted to experiment with AI deep learning.
   I am very interested in using deep learning to help me with my choices.
 I decided to use Tensorflow to analyize past trends.  I chose to put
 previous values at previous time points, to consider if it is a safe bet
-that it will go up within a certain time period.
-
+that it will go up within a certain time period.  I am using a library
+for Tensorflow, using a thing called Estimators,
+Here is a screenshot of the preduction.  Right now I am using google colab
+-
 
 ![alternative text](/screenshots/prediction-text.png "Image Title")
 
