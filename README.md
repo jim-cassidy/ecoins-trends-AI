@@ -30,7 +30,7 @@ Here is a screenshot of the preduction.  Right now I am using google colab
  predicting univariate trends.  This is integrated as a 
  python library.
  
- (/screenshots/lite-predict-screen.jpg)
+ (/screenshots/lite-prophet-screen.jpg)
  
  
 
