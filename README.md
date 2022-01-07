@@ -12,7 +12,7 @@ bitcoin include Litecoin, Ethereum, Zcash, and Dash.  I have been recenlty
 been watching the trends of coins.  So far I have done the best with Etherum.
 I also wanted to experiment with AI deep learning.
 
-## Method #1: Deep Learning
+## Method #1: Deep Learning with Rensorflow
 
   I am very interested in using deep learning to help me with my choices.
 I decided to use Tensorflow to analyize past trends.  I chose to put
@@ -24,7 +24,15 @@ Here is a screenshot of the preduction.  Right now I am using google colab
 
 ![alternative text](/screenshots/prediction-text.png "Image Title")
 
-## Method #2: Traditional Regression
+## Method #2 : Facebook's prophet AI deep learning
+
+  I recently found that Facebook has an easy interface for
+ predicting univariate trends.  This is integrated as a 
+ python library.
+ 
+ 
+
+## Method #3: Traditional Regression
 -
     There are many statistical methods to use for choosing coins.  Lately,
 there has been a surge in cryptocurrency coins.  Different regressions, of
