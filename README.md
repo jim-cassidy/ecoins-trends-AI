@@ -12,7 +12,7 @@ bitcoin include Litecoin, Ethereum, Zcash, and Dash.  I have been recenlty
 been watching the trends of coins.  So far I have done the best with Etherum.
 I also wanted to experiment with AI deep learning.
 
-## Method #1: Deep Learning with Rensorflow
+## Method #1: Deep Learning with Tensorflow
 
   I am very interested in using deep learning to help me with my choices.
 I decided to use Tensorflow to analyize past trends.  I chose to put
