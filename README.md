@@ -32,7 +32,8 @@ Here is a screenshot of the preduction.  Right now I am using google colab
  
  ![picture,](/screenshots/lite-prophet-screen.jpg)
  
- 
+ Utimately, you can compare the different coins, invest based
+ on which Prophet AI is showing a faster increase.
 
 ## Method #3: Traditional Regression
 -
