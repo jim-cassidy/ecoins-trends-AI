@@ -35,7 +35,14 @@ Here is a screenshot of the preduction.  Right now I am using google colab
  Utimately, you can compare the different coins, invest based
  on which Prophet AI is showing a faster increase.
 
-## Method #3: Traditional Regression
+## Method #3: Find bottom price
+
+    I decided to make a program that scans the history, and
+finds the lowest value over a certain time interval
+
+![picture](/screenshots/lite.jpg]
+
+## Method #4: Traditional Regression
 -
     There are many statistical methods to use for choosing coins.  Lately,
 there has been a surge in cryptocurrency coins.  Different regressions, of
