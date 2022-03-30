@@ -41,7 +41,7 @@ Here is a screenshot of the preduction.  Right now I am using google colab
 finds the lowest value over a certain time interval
 
 ![picture](screenshots/lite.jpg]
-![picture](screenshots/april2021comparison.jpg)
+![picture](screenshots/lite.jpg)
 
 
 ## Method #4: Traditional Regression
