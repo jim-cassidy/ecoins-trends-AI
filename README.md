@@ -40,7 +40,9 @@ Here is a screenshot of the preduction.  Right now I am using google colab
     I decided to make a program that scans the history, and
 finds the lowest value over a certain time interval
 
-![picture](/screenshots/lite-prophet-screen.jpg]
+![picture](/screenshots/lite.jpg]
+![picture](screenshots/april2021comparison.jpg)
+
 
 ## Method #4: Traditional Regression
 -
